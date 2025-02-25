@@ -1,4 +1,4 @@
-# Hardhat Lottery-Contract
+# Hardhat Lottery-Contract (Same folder as Lottery Front)
 
 ## Getting Started
 ### Requirements
