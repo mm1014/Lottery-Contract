@@ -1,14 +1,15 @@
 {
-    "name": "hardhat-project",
+    "name": "Lottery-Contract",
     "devDependencies": {
         "@chainlink/contracts": "^1.2.0",
         "@nomicfoundation/hardhat-toolbox": "^5.0.0",
         "dotenv": "^16.4.7",
         "hardhat": "^2.22.17",
         "hardhat-deploy": "^0.12.4",
-        "solhint": "^5.0.4",
+        "hardhat-gas-reporter": "^1.0.10",
         "prettier": "^3.4.2",
         "prettier-plugin-solidity": "^1.4.2",
+        "solhint": "^5.0.4",
         "solidity-coverage": "^0.8.14"
     }
 }

@@ -7,6 +7,9 @@ require("dotenv").config()
 const SEPOLIA_RPC_URL = process.env.SEPOLIA_RPC_URL || ""
 const PRIVATE_KEY = process.env.PRIVATE_KEY || ""
 // optional
+const MAINNET_RPC_URL = process.env.MAINNET_RPC_URL || ""
+const POLYGON_MAINNET_RPC_URL = process.POLYGON_MAINNET_RPC_URL || ""
+
 const MNEMONIC = process.env.MNEMONIC || ""
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
 const REPORT_GAS = process.env.REPORT_GAS || false
